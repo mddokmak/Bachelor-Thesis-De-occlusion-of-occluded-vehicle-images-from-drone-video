@@ -10,9 +10,7 @@
   <p align="center">
     An adventure through Inpainting hidden part of vehicles with Deep Learning!
     <br />
-    <a href="https://drive.google.com/file/d/11slsowC7kfa6kVTZsxml0DvB8hvBVXzg/view?usp=sharing"><strong>Explore the report »</strong></a>
-    <br />
-    <br />
+    ·
     <a href="#midsem">View Mid-semester results</a>
     ·
     <a href="#endsem">View End-semester results</a>
@@ -127,7 +125,7 @@ To fetch the code from GitHub, you need to have git installed on your machine. <
 You can download this repo from the following command:
 
 ```sh
-  git clone https://github.com/2Tricky4u/Bachelor-Thesis-De-occlusion-of-occluded-vehicle-images-from-drone-video
+  git clone https://github.com/mddokmak/Bachelor-Thesis-De-occlusion-of-occluded-vehicle-images-from-drone-video?tab=readme-ov-file
   ```
 
 ### Installation
